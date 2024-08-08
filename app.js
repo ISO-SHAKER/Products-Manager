@@ -52,8 +52,8 @@ const writeFileAsync = promisify(fs.writeFile);
  * POST Product
  */
 program
-  .command("post")
-  .alias("p")
+  .command("add")
+  .alias("a")
   .description("Create Product")
   .action(async () => {
     try {
