@@ -1,0 +1,17 @@
+{
+  "name": "products-manager",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "10.0.1",
+    "inquirer": "9.2.15"
+  }
+}
